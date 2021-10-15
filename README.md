@@ -2,7 +2,7 @@
 
 #### By _**Katie Pundt**_
 
-#### _A portfolio page featuring information about me and my previous work_
+#### _A portfolio page featuring information about me and my previous work._
 
 ## Technologies Used
 
@@ -28,7 +28,7 @@ _My portfolio page with sections for "About Me", "Interests", "Projects", and "B
 * _Use the command "git remote" to confirm the creation of the new local repository_
 *_Open the project with the code editor of your choice_
 
-_Note: when using the commands listed above, do not include the quotation marks. They are used here for readability_
+_Note: when using the commands listed above, do not include the quotation marks. They are used here for readability._
 
 ## Known Bugs
 
