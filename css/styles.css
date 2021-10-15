@@ -21,3 +21,7 @@ h1, h2 {
 .welcome {
   font-style: italic;
 }
+
+h3 {
+  text-decoration: underline;
+}
