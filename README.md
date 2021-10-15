@@ -1,6 +1,6 @@
 # _My Portfolio_
 
-#### By _**Katie Pundt**_
+#### By: _**Katie Pundt**_
 
 #### _A portfolio page featuring information about me and my previous work._
 
@@ -17,6 +17,9 @@
 
 _My portfolio page with sections for "About Me", "Interests", "Projects", and "Background". The "Projects" section features selected projects created at Epicodus._
 
+## GitHub Pages
+_View the project here: https://kpundt93.github.io/portfolio/_
+
 ## Setup/Installation Requirements
 
 * _Navigate to https://github.com/kpundt93/portfolio_
@@ -26,13 +29,16 @@ _My portfolio page with sections for "About Me", "Interests", "Projects", and "B
 * _Once inside your desktop folder, use the command "git clone https://github.com/kpundt93/portfolio.git"_
 * _After cloning the project, navigate into it using the command "cd portfolio"_
 * _Use the command "git remote" to confirm the creation of the new local repository_
-*_Open the project with the code editor of your choice_
+* _Open the project with the code editor of your choice_
 
 _Note: when using the commands listed above, do not include the quotation marks. They are used here for readability._
 
 ## Known Bugs
 
 * _No known bugs_
+
+## Contact Information
+_Katie Pundt, kzpundt@gmail.com_
 
 ## License
 
