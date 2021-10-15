@@ -1,48 +1,59 @@
 body {
   background-color: #CED4DA;
-}
-
-.jumbotron {
-  margin-bottom: 0;
-  border-radius: 0;
-  padding: 32px;
-}
-
-#hero {
-  max-width: 100%;
-  height: auto;
-}
-
-body {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
 }
 
-h1, h2 {
-  font-family: 'Open Sans', sans-serif;
-  text-align: center;
+.jumbotron {
+  margin-top: 2em;
+  margin-bottom: 1em;
+  border-radius: 0;
+  padding: 32px;
+  border: 1px solid #495057;
 }
 
 h1 {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
   font-weight: bold;
 }
 
 h2 {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
   padding-top: 1em;
-}
-
-h3 {
-  margin-bottom: 0.25em;
-}
-
-p {
-  margin: 0.25em 0;
 }
 
 .welcome {
   font-style: italic;
 }
 
+#hero {
+  max-width: 100%;
+  height: auto;
+  margin-top: 1em;
+  margin-bottom: 2em;
+  border: 1px solid #495057;
+}
+
 h3 {
+  margin-bottom: 0.25em;
   text-decoration: underline;
+}
+
+p {
+  margin: 0.25em 0;
+}
+
+.card {
+  margin-bottom: 1em;
+  border: 1px solid #495057;
+}
+
+#projects.card {
+  padding-bottom: 1em;
+}
+
+#background.card {
+  margin-bottom: 2em;
 }
