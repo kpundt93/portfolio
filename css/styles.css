@@ -7,3 +7,17 @@
   max-width: 100%;
   max-height: auto;
 }
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+
+h1, h2 {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+
+.welcome {
+  font-style: italic;
+}
