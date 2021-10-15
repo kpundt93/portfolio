@@ -2,9 +2,10 @@ body {
   background-color: #CED4DA;
 }
 
-.container {
-  max-width: 800px;
-  margin: auto;
+.jumbotron {
+  margin-bottom: 0;
+  border-radius: 0;
+  padding: 32px;
 }
 
 #hero {
@@ -23,11 +24,11 @@ h1, h2 {
 }
 
 h1 {
-  margin-bottom: 0;
+  font-weight: bold;
 }
 
 h2 {
-  margin-top: 0.25em;
+  padding-top: 1em;
 }
 
 h3 {
