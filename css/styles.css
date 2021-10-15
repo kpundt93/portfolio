@@ -57,3 +57,11 @@ p {
 #background.card {
   margin-bottom: 2em;
 }
+
+.card-link {
+  float: right;
+}
+
+a:hover, a.card-link:hover {
+  text-decoration: underline;
+}
